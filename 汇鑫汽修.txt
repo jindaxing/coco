@@ -1,28 +1,24 @@
 [
  {"name":"汇鑫直播","url":"https://v4-7a53.5588888.xyz/api/v3/file/get/24086/%E5%B8%AE%E5%8A%A9%E8%AF%B4%E6%98%8E.txt?sign=DYBDoFBwmtHPat31lzVsNf54E_52TyJPXOzthpH6hLk%3D%3A0&&&http://3650000.xyz/api/360.php?cid=6"},
-  {"name":"汇鑫直播1","url":" https://mirror.ghproxy.com/https://github.com/jindaxing/tv/blob/main/TV .txt&&&http://3650000.xyz/api/360.php?cid=6"},
+  {"name":"汇鑫直播1","url":" https://mirror.ghproxy.com/https://github.com/jindaxing/tv/blob/main/TV .txt&&&http://api.btstu.cn/sjbz/?lx=meizi"},
 
-  
+ { "name": "电视直播", "url": "https://gitee.com/lu-xiaoming-0168/lu/raw/广州台/电视直播.png&&&https://api.dzzui.com/api/avatar"},
+  { "name": "盛世直播", "url": "https://9245.kstore.space/%E7%9B%9B%E4%B8%96.txt&&&http://3650000.xyz/api/360.php?cid=6"},
   {"name":"猫TV直播","url":"http://rihou.cc:555/gggg.nzk&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php" },
-{"name": "央卫",  "url": "https://dimaston.github.io/live.m3u&&&http://3650000.xyz/api/360.php?cid=6"  },
-{"name":"开心软件","url":"http://ttkx.live:55/lib/kx2024.txt&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
- {"name":"湖南组播","url":"https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wokaotianshi123/zubotv/main/hunanzubo.m3u&&&https://api.likepoems.com/img/bing"},
+{"name": "央卫",  "url": "http://xn--ur0a.xn--dkw.xn--6qq986b3xl/down.php/a7c9d038627e11f037adcad788da129e.txt&&&https://api.yimian.xyz/img?type=moe&size=1920x1080"  },
+{"name":"开心软件","url":"http://kxrj.site:55/lib/kx2024.txt&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
+
   {"name":"多省组播","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/lalifeier/IPTV/main/txt/udpxy/全国.txt&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php" },
 {"name":"电影轮播","url":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/直播转点播/影视.txt&&&https://api.likepoems.com/img/mc"},
 
-
+{ "name": "电视", "url": "https://ghp.ci/https://raw.githubusercontent.com/wnddwc/daiweichun/main/TV0.txt&&&http://3650000.xyz/api/360.php?cid=6"},
  { "name": "肥猫", "url": "http://我不是.肥猫.live/TV/tvzb.txt&&&http://3650000.xyz/api/360.php?cid=6"},
-    
- { "name": "IPV6", "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u&&&http://3650000.xyz/api/360.php?cid=8"},
-{"name":"春盈天下","url":"https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2Ffeihu6.txt?ref=master&&&https://tuapi.eees.cc/api.php?category=meinv&type=302"},
+  {"name":"宝盒直播","url":"http://39.101.135.137:8081/xx3.txt&&&http://api.btstu.cn/sjbz/?lx=meizi"},  
+
    {"name":"蓝天白云","url":"https://10085.kstore.space/%E8%93%9D%E5%A4%A9%E7%99%BD%E4%BA%91.txt&&&http://www.kf666888.cn/api/tvbox/img"},
   {"name":"俊于","url":"http://home.jundie.top:81/Cat/tv/live.txt&&&https://img.xjh.me/random_img.php"},
- {  "name": "超级MV", "url": "http://52pan.top:81/f/rkwi0/%E8%B6%85%E7%BA%A7MV.txt&&&http://3650000.xyz/api/360.php?cid=6" },
- { "name": "全面直播", "url": "http://47.108.190.141/wx/zb/live3.txt&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php" },
- { "name": "咪咕直播","url": "http://47.108.190.141/wx/zb/live.txt&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php" },
-
- {  "name": "电视直播IPV4-2", "url": "http://47.108.190.141/wx/zb/野火.txt&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php" },
- { "name": "电视直播IPV4",  "url": "http://47.108.190.141/wx/zb/tvlive.txt&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php" },
+ {  "name": "超级MV", "url": "https://ipv4wp.axzzz.top:9503/f/naXBtk/%E8%B6%85%E7%BA%A7MV.txt&&&http://3650000.xyz/api/360.php?cid=6" },
+{"name":"最全直播","url":"http://rihou.cc:555/gggg.nzk&&&http://api.btstu.cn/sjbz/?lx=meizi"},
 
   {"name": "MTV三万九", "url": "http://www.iptv6.icu/f/BKJFW/MTV%E4%B8%89%E4%B8%87%E4%B9%9D%29.txt&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php" },
  {  "name": "电台之声", "url": "http://www.iptv6.icu/f/NpgFa/%E7%94%B5%E5%8F%B0%E4%B9%8B%E5%A3%B0.txt&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php" },
@@ -34,17 +30,4 @@
  {"name":"iptv","url":" https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wokaotianshi123/moIPTV/Files/IPTV.m3u&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php" },
 
    {"name":"chengren3","url":"http://adultiptv.net/lists/all.m3u&&&http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/mpansou.php" }
-
-
 ]
-
-
-
-
-
-
-
-
-
-
-
