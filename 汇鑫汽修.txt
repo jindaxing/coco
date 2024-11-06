@@ -1,6 +1,6 @@
 [
  {"name":"汇鑫直播","url":"https://v4-7a53.5588888.xyz/api/v3/file/get/24086/%E5%B8%AE%E5%8A%A9%E8%AF%B4%E6%98%8E.txt?sign=DYBDoFBwmtHPat31lzVsNf54E_52TyJPXOzthpH6hLk%3D%3A0&&&http://3650000.xyz/api/360.php?cid=6"},
-  {"name":"汇鑫直播1","url":" https://mirror.ghproxy.com/https://github.com/jindaxing/tv/blob/main/TV .txt&&&http://api.btstu.cn/sjbz/?lx=meizi"},
+  {"name":"汇鑫直播1","url":" https://ghp.ci/https://raw.githubusercontent.com/jindaxing/tv/refs/heads/main/TV%20.txt&&&http://api.btstu.cn/sjbz/?lx=meizi"},
 
  { "name": "电视直播", "url": "https://gitee.com/lu-xiaoming-0168/lu/raw/广州台/电视直播.png&&&https://api.dzzui.com/api/avatar"},
   { "name": "盛世直播", "url": "https://9245.kstore.space/%E7%9B%9B%E4%B8%96.txt&&&http://3650000.xyz/api/360.php?cid=6"},
